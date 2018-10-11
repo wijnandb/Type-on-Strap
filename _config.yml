@@ -15,10 +15,10 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>Digitale geletterdheid: hoe gaan we dat in hemelsnaam ook nog onderwijzen?</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Site gebouwd met <a href="https://jekyllrb.com/">Jekyll</a> met <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> template.
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "wijnandb"
   google_plus:
   instagram:
   keybase:
@@ -40,7 +40,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: wijnandb # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -54,7 +54,7 @@ theme_settings:
     pinterest:
     pocket:
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
@@ -72,18 +72,18 @@ theme_settings:
       enabled: true
   
   # Localization strings
-  str_follow_on: "Follow on"
+  str_follow_on: "Volg ons via"
   str_rss_follow: "Follow RSS feed"
-  str_share_on: "Share on"
+  str_share_on: "Deel via"
   str_add_to: "Add to"
   str_email: "Email"
   str_tweet: "Tweet"
   str_pin_it: "Pin it"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next_post: "Volgende"
+  str_previous_post: "Vorige"
+  str_next_page: "Volgende"
+  str_previous_page: "Vorige"
+  str_continue_reading: "Lees verder"
   str_javascript_required_disqus: "Please enable JavaScript to view comments."
 
   # Colours, typography and padding
