@@ -12,3 +12,5 @@ Search should be working even for complicated escape symbols
 ```
 sed -i 's/\"hostname\"\:.*$/\"hostname\"\: \"'$IPADDR'\"\,/g' open-falcon/agent/config/cfg.json
 ```
+
+{% twitter https://twitter.com/wijnandb maxwidth=500 limit=5 %}
