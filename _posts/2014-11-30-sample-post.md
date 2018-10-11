@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sample post
+feature-img: "assets/img/portfolio/cake.png"
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
